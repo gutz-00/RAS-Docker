@@ -47,10 +47,10 @@ Este repositório contém a implementação prática da containerização de uma
 Passo 1: Clonar o Repositório na VM Ubuntu Server
 
 Conecte-se à VM via SSH e clone este repositório:
-
-git clone https://github.com/[seu-usuario]/RAS-Docker-Aluno.git
+```text
+git clone https://github.com/gutz-00/RAS-Docker
 cd RAS-Docker-Aluno
-
+```
 
 
 Passo 2: Construir a Imagem Docker
